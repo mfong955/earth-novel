@@ -21,7 +21,7 @@ A lightweight, intelligent workspace template for AI-assisted project developmen
 ## How It Works
 
 ### For AI
-The AI reads [`.amazonq/rules/aiworkspace.md`](.amazonq/rules/aiworkspace.md) which tells it to:
+The AI reads [`.ai/rules/aiworkspace.md`](.ai/rules/aiworkspace.md) which tells it to:
 1. Read [`ai_system/memory/user_profile.md`](ai_system/memory/user_profile.md) - Your communication style
 2. Read [`project/plan/goals.md`](project/plan/goals.md) - Project objectives
 3. Read [`project/plan/progress.md`](project/plan/progress.md) - Current status
@@ -43,7 +43,7 @@ The AI reads [`.amazonq/rules/aiworkspace.md`](.amazonq/rules/aiworkspace.md) wh
 ```
 your-project/
 ├── README.md                          # This file
-├── .amazonq/
+├── .ai/
 │   └── rules/
 │       └── aiworkspace.md            # AI's instruction file
 ├── ai_system/
