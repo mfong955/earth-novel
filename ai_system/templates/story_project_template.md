@@ -55,3 +55,7 @@
 - **Role in Plot**: 
 - **Scenes Taking Place Here**: 
 ```
+
+---
+
+*This template helps structure story/novel projects. The AI will adapt it to your specific needs.*

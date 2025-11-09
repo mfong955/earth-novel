@@ -55,3 +55,7 @@
 - **Wireframes**: [Link to files]
 - **Prototypes**: [Link to files]
 ```
+
+---
+
+*This template helps structure application/software projects. The AI will adapt it to your specific needs.*
