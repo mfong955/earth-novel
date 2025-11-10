@@ -79,19 +79,33 @@ An ancient, malevolent race dwelling deep within the Earth is awakening after eo
 
 ## Character Framework
 
-### Main Character (Human)
-- Initially isolated from telepathic world
-- Chosen by subterranean creatures to test their understanding of human minds
-- Develops telepathic abilities through exposure and practice
-- Gains "will" powers as story progresses, especially in deep caves
-- Key to defeating Prime Evil due to unique human-telepathic hybrid abilities
+### Lee (Main Character - Human)
+- **Name**: Lee
+- **Personality**: Sci-fi/fantasy nerd, curious, humorous, genuine and kind
+- **Arc**: Initially isolated from telepathic world → develops telepathic and will abilities → becomes bridge between humanity and telepathic world
+- **Traits**: Makes puns even in dark situations, excited to learn, maintains hope despite challenges
+- **Relationship with Gandalf**: Enamored but also jokes with him, calls him "earth astronaut Gandalf"
+- **Key Role**: Chosen by Istars to test human telepathy, proves humans can learn, key to defeating Prime Evil due to unique hybrid abilities
 
-### The Astronaut/Gandalf Figure (Subterranean Ally)
-- Explorer from deep underground civilization
-- Old and wise, like Gandalf
-- Breaking away from home to solve problems for their race
-- Guides main character and serves as bridge between worlds
-- Strong telepathic abilities
+### Gandalf (Istar Mentor)
+- **True Identity**: Feeling-projection of "multi-layered strata building over geological time" (old, complex, strong, insightful)
+- **Name Origin**: Lee calls him Gandalf due to similarities with Tolkien's character
+- **Species**: Istar (Lee's name for the species, from Tolkien)
+- **Age**: Thousands of years old, ancient even by Istar standards
+- **Personality**: Wise, intelligent, powerful, deadly when needed, can have fun when appropriate
+- **Traits**: Impatient with humans generally but finds affinity with Lee, knows his limits, extremely smart
+- **Mission**: Learn to communicate with surface creatures, gain support against Ancient evils
+- **Power**: One of the most powerful Istars, but not THE most powerful
+- **Role**: Mentor, guide, bridge between Istar and human worlds
+
+### The Istar Species
+- **Lifespan**: Thousands of years
+- **Reproduction**: Very slow and deliberate
+- **Naming**: Project feelings instead of names (feelings evolve over time)
+- **Culture**: Value knowledge, wisdom, patience; operate on geological timescales
+- **History**: Hundreds of thousands killed in dinosaur extinction event by Ancients
+- **Current Situation**: Fighting to keep Ancients from reaching surface for millions of years
+- **The Powerful Few**: Elite group including Gandalf, meet every ~10 years, each with different research focus
 
 ### The Prime Evil
 - Most powerful of the ancient evils
@@ -102,7 +116,7 @@ An ancient, malevolent race dwelling deep within the Earth is awakening after eo
 - Final antagonist
 
 ### Supporting Cast (To Be Developed)
-- Other subterranean allies
+- Other Istar explorers and allies
 - Human believers and government allies
 - Various creatures from different ecosystems
 - Lesser evils and abominations
