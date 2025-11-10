@@ -9,62 +9,102 @@
 ## Project Overview
 
 ### Project Name
-[Your project name]
+[Working Title - To Be Determined]
 
 ### Project Type
-[Story/Novel/Application/Website/Other]
+Novel - Science Fiction/Fantasy/Thriller
 
 ### Description
-[Brief description of what this project is about]
+An epic story about a human who discovers Earth's hidden telepathic network connecting all non-human life. When ancient, malevolent creatures from deep within the Earth begin awakening to destroy surface life, the protagonist must bridge the gap between isolated humanity and the interconnected natural world to prevent extinction. The story explores themes of connection vs. isolation, environmental consciousness, and unity against existential threats.
 
 ---
 
 ## Main Objectives
 
 ### Primary Goal
-[What is the main thing you want to accomplish?]
+Write a complete novel that blends science fiction and fantasy elements, featuring a unique telepathic world-building system and an epic conflict between surface life and ancient underground evils.
 
 ### Secondary Goals
-- [Additional objective 1]
-- [Additional objective 2]
-- [Additional objective 3]
+- Develop a compelling protagonist who transforms from isolated human to telepathic-will hybrid
+- Create a rich, interconnected ecosystem of conscious beings (forests, oceans, underground civilizations)
+- Build a unique magic system based on "will" that feels both mysterious and consistent
+- Craft two major story arcs: preventing nuclear war and defeating the Prime Evil
+- Explore themes of environmental consciousness and cross-species cooperation
+- Develop memorable characters including the Gandalf-like mentor figure
 
 ---
 
 ## Success Criteria
 
 ### How will you know this project is successful?
-- [Criterion 1]
-- [Criterion 2]
-- [Criterion 3]
+- Complete manuscript with clear three-act structure
+- Compelling characters with distinct voices and meaningful arcs
+- Consistent and engaging world-building throughout
+- Both major adventures (nuclear war prevention and Prime Evil confrontation) fully developed
+- Satisfying resolution that addresses main conflicts
+- Themes of connection and environmental consciousness woven throughout
+- Story feels epic in scope while maintaining emotional intimacy
 
 ---
 
 ## Scope
 
 ### In Scope
-[What is included in this project]
+- Complete novel manuscript from beginning to end
+- Detailed character development for protagonist, mentor, and Prime Evil
+- Full world-building for telepathic network, will power system, and various ecosystems
+- Two major story arcs with clear structure
+- Supporting cast of allies and antagonists
+- Exploration of environmental and consciousness themes
+- Resolution of main conflict with Prime Evil
 
 ### Out of Scope
-[What is explicitly NOT included]
+- Detailed scientific explanations for all telepathic/will mechanics (maintain some mystery)
+- Extensive human political subplots beyond what's necessary for the story
+- Sequel setup (story should be complete, though world allows for more)
+- Multiple POV characters (focus on main character's perspective)
 
 ---
 
 ## Timeline (Optional)
 
 ### Target Completion
-[Date or timeframe, if applicable]
+[To be determined based on writing pace]
 
 ### Key Milestones
-- [Milestone 1]: [Target date]
-- [Milestone 2]: [Target date]
-- [Milestone 3]: [Target date]
+- Complete character naming and detailed profiles
+- Finish Act 1 outline with scene breakdown
+- Complete Act 2 outline with both adventures detailed
+- Finish Act 3 outline with climax and resolution
+- Begin first draft
+- Complete first draft
+- Revision and refinement
 
 ---
 
 ## Notes
 
-[Any additional context about your goals]
+**Core Story Elements:**
+- Telepathic network connecting all non-human life on Earth
+- "Will" power system that increases with depth underground
+- Ancient evils responsible for dinosaur extinction awakening again
+- Two-part adventure structure: prevent nuclear war, then defeat Prime Evil
+- Protagonist develops from isolated human to telepathic-will hybrid
+- Themes of connection, environmental consciousness, and unity
+
+**Key Decisions Still Needed:**
+- Character names (protagonist, mentor, species names)
+- Exact mechanics of final battle resolution
+- Specific details of Prime Evil's artifact
+- What caused the ancient evils to stir now
+- Post-victory world state and implications
+
+**Unique Selling Points:**
+- Fresh take on telepathy as evolutionary adaptation
+- Interconnected ecosystem consciousness (trees, oceans, underground)
+- Blend of hard sci-fi concepts with fantasy elements
+- Environmental themes without being preachy
+- Epic scope with intimate character development
 
 ---
 
